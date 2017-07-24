@@ -1,9 +1,9 @@
 //
-//  DAL.h
-//  MVCAppTemplate
+//  ___FILENAME___
+//  ___PACKAGENAME___
 //
-//  Created by Fuad on 30/06/17.
-//  Copyright © 2017 Fuad. All rights reserved.
+//  Created by ___FULLUSERNAME___ on ___DATE___.
+//___COPYRIGHT___
 //
 
 #import <Foundation/Foundation.h>
